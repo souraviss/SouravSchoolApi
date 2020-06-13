@@ -13427,11 +13427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Angular Project\\SchoolProject\\DemoApp\\DemoApp\\DemoApp.csproj",
+      "projectUniqueName": "C:\\Users\\soura\\Source\\Repos\\souraviss\\SouravSchoolApi\\DemoApp\\DemoApp.csproj",
       "projectName": "DemoApp",
-      "projectPath": "I:\\Angular Project\\SchoolProject\\DemoApp\\DemoApp\\DemoApp.csproj",
+      "projectPath": "C:\\Users\\soura\\Source\\Repos\\souraviss\\SouravSchoolApi\\DemoApp\\DemoApp.csproj",
       "packagesPath": "C:\\Users\\soura\\.nuget\\packages\\",
-      "outputPath": "I:\\Angular Project\\SchoolProject\\DemoApp\\DemoApp\\obj\\",
+      "outputPath": "C:\\Users\\soura\\Source\\Repos\\souraviss\\SouravSchoolApi\\DemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

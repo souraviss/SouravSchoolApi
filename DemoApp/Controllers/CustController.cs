@@ -17,7 +17,7 @@ namespace DemoApp.Controllers
         // GET: Cust
         public ActionResult Index()
         {
-
+            //index file
             DemoContext context = HttpContext.RequestServices.GetService(typeof(DemoContext)) as DemoContext;
             return View(context.GetCustomers());
         }
